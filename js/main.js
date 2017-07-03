@@ -1,4 +1,4 @@
-var mots= ["sac"];
+var mots= ["sac","table","chaise","salut","hello","bonjour"];
 var ordi= mots [Math.trunc(Math.random() * mots.length)];
 var lettre=[];
 var scoreJ=0;
